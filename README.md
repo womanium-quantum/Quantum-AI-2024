@@ -13,7 +13,7 @@ Instructions for each team:
 Add the GitHub submission link (public link of your forked repo) on Canvas to be eligible for a Certificate.
   8. Please do not modify your team repository between the Judging period (**August 5, 2024 - August 14, 2024**). If you modify your team repository during this period, your submission may be subject to disqualification.
   9. Project finalists, shortlisted to present their solutions on Demo Day, will be announced on **August 10, 2024**.
-  10. Project winners will be announced on Demo Day, **August 14, 2024, 2024**.
+  10. Project winners will be announced on Demo Day, **August 14, 2024**.
   11. Project winners will qualify for QSL Fellowships, starting **September 1, 2024**.
 
 ## What should your Team Repository contain?
