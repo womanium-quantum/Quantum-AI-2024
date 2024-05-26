@@ -27,11 +27,11 @@ _Make sure your repo does NOT contain any personal or team's tokens/access infor
   
 ## Womanium QSL Projects:
   ### 1. Quantum Chemistry Simulation for Environmental Modeling --> *by Naval Nuclear Laboratory*
-  https://github.com/womanium-quantum/Quantum-Hardware-Education-Challenge---QWorld
+  https://womanium.org/Quantum/AI
   > (Team Size = max.4).  Participants will apply classical and quantum chemistry simulation techniques to model climate and environmental scenarios, bridging theoretical quantum chemistry with real-world applications.
-  ### 2. Green Qupermarket (Quantum Focus) --> *by Classiq*
-  https://github.com/womanium-quantum/Green-Qupermarket-Technical-Focus---Deloitte
-  > The goal of the Green Qupermarket challenge is to analyze how quantum technology can optimize the energy consumption model of supermarkets in regard to its CO2 emissions. The challenge scenario features a supermarket, multiple electric vehicles, and various weather conditions. The energy management of the supermarket is to be optimized so that the total CO2 emission is minimal by using the green decentrally generated energy out of electric vehicles. The batteries of the electric vehicles can be used as additional storage capacity. Create a quantum algorithm, a quantum hybrid solution or a quantum inspired solution addressing the optimization of the utilization of electricity with respect to a minimum CO2 emission.
-  ### 3. Green Qupermarket (Business Focus) --> *by Fraunhofer ITWM*
-  https://github.com/womanium-quantum/Green-Qupermarket-Business-Focus---Deloitte
-  > The goal of the Green Qupermarket challenge is to analyze how quantum technology can optimize the energy consumption model of supermarkets in regard to its CO2 emissions. The challenge scenario features a supermarket, multiple electric vehicles, and various weather conditions. The energy management of the supermarket is to be optimized so that the total CO2 emission is minimal by using the green decentrally generated energy out of electric vehicles. The batteries of the electric vehicles can be used as additional storage capacity. Develop a price model for charging and discharging of electric vehicles taking into account  CO2 emissions and dependency of demand and supply on weather conditions, and develop a corresponding business model.
+  ### 2. Development of Novel Quantum Algorithms --> *by Classiq*
+  https://womanium.org/Quantum/AI
+  > Participants will delve into quantum algorithms offering exponential advantages, such as Shor’s algorithm, HHL and Hamiltonian simulation, and learn their practical applications through state-of-the-art implementations.
+  ### 3. Quantum Machine Learning for Conspicuity Detection in Production --> *by Fraunhofer ITWM*
+  https://womanium.org/Quantum/AI
+  > This project focuses on optimizing production processes by identifying improvement measures early. Participants will explore hybrid quantum computing to accelerate data analysis, with training on QML, hybrid models, QNNs.
