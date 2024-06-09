@@ -1,5 +1,5 @@
-# Quantum-AI-2024
-Womanium Quantum+AI 2024 Projects
+# Womanium Quantum-AI-2024
+![LOGO - Womanium Quantum - GlitchedSlow](https://github.com/womanium-quantum/Quantum-AI-2024/assets/40118003/98f38667-875d-430c-93ac-d4ea30588cab)
 
 ## Instructions:
 Instructions for each team:
