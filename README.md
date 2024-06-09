@@ -6,8 +6,9 @@ To ensure a smooth and fair experience for all participants, please carefully re
 
 ### Eligibility:
 - To participate in the project, you must be successfully enrolled in the Womanium Quantum+AI 2024 program. 
-- Registration link: [https://lu.ma/WQ-2024](https://lu.ma/WQ-2024)
-- Webpage: [https://womanium.org/Quantum/AI](https://womanium.org/Quantum/AI) 
+Registration link: [https://lu.ma/WQ-2024](https://lu.ma/WQ-2024)
+Webpage: [https://womanium.org/Quantum/AI](https://womanium.org/Quantum/AI)
+- All nationalities, genders, and age groups are welcome to participate in the projects. 
 
 Instructions for each team:
   1. Browse through all the projects (given below). 
