@@ -1,7 +1,15 @@
 # Womanium Quantum-AI-2024
 ![LOGO - Womanium Quantum - GlitchedSlow](https://github.com/womanium-quantum/Quantum-AI-2024/assets/40118003/98f38667-875d-430c-93ac-d4ea30588cab)
 
-## Instructions:
+## Project Participation Rules and Guidelines
+To ensure a smooth and fair experience for all participants, please carefully read and adhere to the following rules and guidelines. These instructions aim to provide clarity and structure for the project period, from team formation to submission and final judgment.
+
+### Eligibility:
+- To participate in the project, you must be successfully enrolled in the Womanium Quantum+AI 2024 program. 
+Registration link: [https://lu.ma/WQ-2024](https://lu.ma/WQ-2024)
+Webpage: [https://womanium.org/Quantum/AI](https://womanium.org/Quantum/AI)
+- All nationalities, genders, and age groups are welcome to participate in the projects. 
+
 Instructions for each team:
   1. Browse through all the projects (given below). 
   2. Visit the project repositories for a detailed explanation. Each project has a different set of team guidelines for successful submission. Please read carefully before selecting the project to work on.
