@@ -11,6 +11,10 @@ If there are any questions, please get in touch with the Womanium team on the Wo
    - Webpage: [https://womanium.org/Quantum/AI](https://womanium.org/Quantum/AI)
   2. All nationalities, genders, and age groups are welcome to participate in the projects. 
 
+### Project Browsing and Selection:
+  1. Review all available projects listed below.
+  2. Visit each project's repository for a detailed explanation. Each project has unique deliverables and guidelines for successful submission; please read these carefully before selecting a project.
+
 Instructions for each team:
   1. Browse through all the projects (given below). 
   2. Visit the project repositories for a detailed explanation. Each project has a different set of team guidelines for successful submission. Please read carefully before selecting the project to work on.
