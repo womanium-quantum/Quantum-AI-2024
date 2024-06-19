@@ -29,7 +29,7 @@ If there are any questions, please get in touch with the Womanium team on the Wo
   3. Ensure your repository is public at the time of submission for judging purposes. All work inside your team repository will be considered the final submission for the project.
 
 ### Project Submission:
-  1. Submit your team repository by **August 5, 2024, 23:59pm US ET**.
+  1. Submit your team repository by **August 9, 2024, 23:59pm US ET**.
   2. Add the GitHub submission link (public link of your Team repository) on Canvas.
   3. Do not modify your team repository after August 5. Any modifications after the submission deadline may lead to disqualification.
 
