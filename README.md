@@ -1,9 +1,11 @@
 # Womanium Quantum+AI 2024
 ![LOGO - Womanium Quantum - GlitchedSlow](https://github.com/womanium-quantum/Quantum-AI-2024/assets/40118003/98f38667-875d-430c-93ac-d4ea30588cab)
 
+
 ## Project Participation Rules and Guidelines
 To ensure a smooth and fair experience for all participants, please carefully read and adhere to the following rules and guidelines. These instructions aim to provide clarity and structure for the project period, from team formation to submission and final judgment.
 If there are any questions, please get in touch with the Womanium team on the Womanium Discord server.
+
 
 ### Eligibility:
   1. To participate in the project, you must be successfully enrolled in the Womanium Quantum+AI 2024 program. 
@@ -39,14 +41,14 @@ If there are any questions, please get in touch with the Womanium team on the Wo
 
   
 ## Womanium QSL Projects:
-  ### 1. Quantum Chemistry Simulation for Environmental Modeling --> *by Naval Nuclear Laboratory*
-  https://womanium.org/Quantum/AI
-  > (Team Size = max.4).  Participants will apply classical and quantum chemistry simulation techniques to model climate and environmental scenarios, bridging theoretical quantum chemistry with real-world applications.
+  ### 1. Quantum+AI for Climate --> *by Naval Nuclear Laboratory*
+  [https://github.com/womanium-quantum/Quantum-AI-for-Climate](https://github.com/womanium-quantum/Quantum-AI-for-Climate)
+  > (Team Size = max.4)Participants will apply classical and quantum simulation techniques to model climate and environmental scenarios, bridging theoretical quantum chemistry with real-world applications.
   ### 2. Development of Novel Quantum Algorithms --> *by Classiq*
-  https://womanium.org/Quantum/AI
+  [https://github.com/womanium-quantum/Development-of-Novel-Quantum-Algorithms](https://github.com/womanium-quantum/Development-of-Novel-Quantum-Algorithms)
   > Participants will delve into quantum algorithms offering exponential advantages, such as Shor’s algorithm, HHL and Hamiltonian simulation, and learn their practical applications through state-of-the-art implementations.
   ### 3. Quantum Machine Learning for Conspicuity Detection in Production --> *by Fraunhofer ITWM*
-  https://womanium.org/Quantum/AI
+  [https://github.com/womanium-quantum/QML-for-Conspicuity-Detection-in-Production](https://github.com/womanium-quantum/QML-for-Conspicuity-Detection-in-Production)
   > This project focuses on optimizing production processes by identifying improvement measures early. Participants will explore hybrid quantum computing to accelerate data analysis, with training on QML, hybrid models, QNNs.
 
 
