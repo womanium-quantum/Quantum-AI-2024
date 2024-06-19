@@ -37,14 +37,6 @@ If there are any questions, please get in touch with the Womanium team on the Wo
   3. All awards will be announced on Demo Day, August 15, 2024.
   4. Outstanding participants will win QSL Fellowships, starting September 1, 2024.
 
-## What should your Team Repository contain?
-  1. Name of the team.
-  2. Name of all team members, along with their Discord ID, Github ID, Nationality, Current Affiliation and contact email.
-  3. Name of the Project.
-  4. A comprehensive ReadMe file which contains all the important information about your project solution.
-  6. All necessary code files and any other information you feel is required to judge your project solution. (Scoring rubric can be found in the respective project repositories.)
-  7. Remember to submit your Team repository by creating a fork only to the project repository you are working on. Final Team repositories must be made public and submitted by August 5, 2024, 23:59pm US ET. Each team member needs to add the Github submission link (public link of your forked repo) on Canvas to be eligible for a Certificate.
-_Make sure your repo does NOT contain any personal or team's tokens/access information to access backends._  
   
 ## Womanium QSL Projects:
   ### 1. Quantum Chemistry Simulation for Environmental Modeling --> *by Naval Nuclear Laboratory*
@@ -56,3 +48,13 @@ _Make sure your repo does NOT contain any personal or team's tokens/access infor
   ### 3. Quantum Machine Learning for Conspicuity Detection in Production --> *by Fraunhofer ITWM*
   https://womanium.org/Quantum/AI
   > This project focuses on optimizing production processes by identifying improvement measures early. Participants will explore hybrid quantum computing to accelerate data analysis, with training on QML, hybrid models, QNNs.
+
+
+## Code of Conduct
+  - Maintain the highest standards of ethical conduct throughout the project period. Any form of cheating, harassment, or misconduct will lead to disqualification and potential banning from future events. Maintain professionalism and respect in all interactions with fellow participants and the Womanium team.
+  - Respect intellectual property rights. Ensure that all work submitted is original and properly referenced if using third-party resources. Plagiarism or the use of unauthorized material will result in immediate disqualification.
+  - Adhere strictly to all deadlines. Late submissions will not be accepted.
+  - The projects are suggested and supported by Womanium's partner organizations. However, participation in these projects does not imply any association with Womanium's partner organizations.
+  - Participation in this project in no way guarantees any awards or fellowships from Womanium or partner organizations. Awards and fellowships will be granted only to the best participants, as determined solely by Womanium.
+
+By participating in the Womanium Quantum+AI 2024 Projects, you agree to comply with all the rules and guidelines outlined above. We look forward to your innovative contributions and wish you the best of luck in your project endeavours!
