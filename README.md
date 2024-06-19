@@ -21,6 +21,11 @@ If there are any questions, please get in touch with the Womanium team on the Wo
   3. Finalize your team and select the project you want to work on by **July 5, 2024**.
   4. Register your team and project on the Canvas Module _"8. Womanium Quantum+AI Projects"_.
 
+### Project Work Period:
+  1. Work on your team repository from **July 5, 2024** to **August 9, 2024**.
+  2. Fork/duplicate the repository of your selected project. This forked/duplicated repository will be referred to as your _"Team repository"_.
+  3. Ensure your repository is public at the time of submission for judging purposes. All work inside your team repository will be considered the final submission for the project.
+
 Instructions for each team:
   1. Browse through all the projects (given below). 
   2. Visit the project repositories for a detailed explanation. Each project has a different set of team guidelines for successful submission. Please read carefully before selecting the project to work on.
