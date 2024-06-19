@@ -15,6 +15,12 @@ If there are any questions, please get in touch with the Womanium team on the Wo
   1. Review all available projects listed below.
   2. Visit each project's repository for a detailed explanation. Each project has unique deliverables and guidelines for successful submission; please read these carefully before selecting a project.
 
+### Team Formation:
+  1. Network with fellow participants during the Womanium Team-building events over Zoom and on Discord to find your perfect team.
+  2. Each project has a unique maximum team size; please read carefully before forming your teams.
+  3. Finalize your team and select the project you want to work on by **July 5, 2024**.
+  4. Register your team and project on the Canvas Module _"8. Womanium Quantum+AI Projects"_.
+
 Instructions for each team:
   1. Browse through all the projects (given below). 
   2. Visit the project repositories for a detailed explanation. Each project has a different set of team guidelines for successful submission. Please read carefully before selecting the project to work on.
