@@ -1,4 +1,4 @@
-# Womanium Quantum-AI-2024
+# Womanium Quantum+AI 2024
 ![LOGO - Womanium Quantum - GlitchedSlow](https://github.com/womanium-quantum/Quantum-AI-2024/assets/40118003/98f38667-875d-430c-93ac-d4ea30588cab)
 
 ## Project Participation Rules and Guidelines
@@ -26,19 +26,16 @@ If there are any questions, please get in touch with the Womanium team on the Wo
   2. Fork/duplicate the repository of your selected project. This forked/duplicated repository will be referred to as your _"Team repository"_.
   3. Ensure your repository is public at the time of submission for judging purposes. All work inside your team repository will be considered the final submission for the project.
 
-Instructions for each team:
-  1. Browse through all the projects (given below). 
-  2. Visit the project repositories for a detailed explanation. Each project has a different set of team guidelines for successful submission. Please read carefully before selecting the project to work on.
-  3. Network with fellow participants during the Womanium Team-building events over Zoom and on Discord to find your perfect team.
-  4. Finalise your team and the project you want to on by **July 5, 2024**
-  5. Fork/duplicate the project repository of your choice (for the purposes of these instructions, this forked/duplicated repository will be referred to as your “team repository”). 
-  6. Work on your team repository during the project period (**July 5, 2024 - August 5, 2024**). Your repository has to be made public at the time of the submission for us to be able to judge your solutions. All work inside your team repository will be considered as the final submission for the project.
-  7. Submission deadline: **August 5, 2024, 23:59pm US ET**.
-Add the GitHub submission link (public link of your forked repo) on Canvas to be eligible for a Certificate.
-  8. Please do not modify your team repository between the Judging period (**August 5, 2024 - August 14, 2024**). If you modify your team repository during this period, your submission may be subject to disqualification.
-  9. Project finalists, shortlisted to present their solutions on Demo Day, will be announced on **August 10, 2024**.
-  10. Project winners will be announced on Demo Day, **August 14, 2024**.
-  11. Project winners will qualify for QSL Fellowships, starting **September 1, 2024**.
+### Project Submission:
+  1. Submit your team repository by **August 5, 2024, 23:59pm US ET**.
+  2. Add the GitHub submission link (public link of your Team repository) on Canvas.
+  3. Do not modify your team repository after August 5. Any modifications after the submission deadline may lead to disqualification.
+
+### Demo Day, Awards, & QSL Fellowships:
+  1. Project finalists will be announced on August 12, 2024.
+  2. Finalists present 5min. project deck on **Demo Day - August 15, 2024**.
+  3. All awards will be announced on Demo Day, August 15, 2024.
+  4. Outstanding participants will win QSL Fellowships, starting September 1, 2024.
 
 ## What should your Team Repository contain?
   1. Name of the team.
