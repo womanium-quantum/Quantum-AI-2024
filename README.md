@@ -33,14 +33,30 @@ If there are any questions, please get in touch with the Womanium team on the Wo
   2. Add the GitHub submission link (public link of your Team repository) on Canvas.
   3. Do not modify your team repository after August 9. Any modifications after the submission deadline may lead to disqualification.
 
-### Demo Day, Awards, & QSL Fellowships:
+### Demo Day:
   1. Project finalists will be announced on August 12, 2024.
   2. Finalists present 5min. project deck on **Demo Day - August 15, 2024**.
-  3. All awards will be announced on Demo Day, August 15, 2024.
-  4. Outstanding participants will win QSL Fellowships, starting September 1, 2024.
+  3. Winners will be announced on Demo Day, August 15, 2024.
+
+Womanium Grants:
+> Everyone is eligible for Womanium grants. Winning project teams will receive Womanium grants ($750/team).
+The Womanium grants may be used for:
+>  - Attending and presenting at a Science/ Technical conference.
+>  - Attending and presenting at a Leadership conference.
+>  - Organizing a local Quantum workshop (<50 participants).
+>  - Setting up a Quantum Chapter (<50 participants).
+>  - Creating a YouTube Quantum series (<10 videos).
+>  - Requesting Quantum Hardware credits to help you go from project to paper.
+>  - and more ++
+
+Womanium QSL Fellowships:
+> The best participants from the projects will be shortlisted for Womanium QSL fellowships with Industry partners - Naval Nuclear Lab, Fraunhofer ITWM, and Classiq.
+>  - Participants are shortlisted for QSL fellowships on the basis of successful project submission, Technical Merit, Novelty, Communication and Presentation Skills.
+>  - All participants are eligible for QSL fellowships with Fraunhofer ITWM and Classiq. Only US citizens are eligible for QSL fellowships with Naval Nuclear Lab.
+>  - Participants selected for QSL start on paid project fellowships (3-6 month, part-time) from September 1, 2024.
 
   
-## Womanium QSL Projects:
+## Womanium Quantum+AI Projects:
   ### 1. Quantum+AI for Climate --> *by Naval Nuclear Laboratory*
   [https://github.com/womanium-quantum/Quantum-AI-for-Climate](https://github.com/womanium-quantum/Quantum-AI-for-Climate)
   > (Team Size = max.4)__Participants will apply classical and quantum simulation techniques to model climate and environmental scenarios, bridging theoretical quantum chemistry with real-world applications.
@@ -57,6 +73,6 @@ If there are any questions, please get in touch with the Womanium team on the Wo
   - Respect intellectual property rights. Ensure that all work submitted is original and properly referenced if using third-party resources. Plagiarism or the use of unauthorized material will result in immediate disqualification.
   - Adhere strictly to all deadlines. Late submissions will not be accepted.
   - The projects are suggested and supported by Womanium's partner organizations. However, participation in these projects does not imply any association with Womanium's partner organizations.
-  - Participation in this project in no way guarantees any awards or fellowships from Womanium or partner organizations. Awards and fellowships are judged solely by Womanium, and Womanium reserve the right to disqualify any participant/ team at any time if found disobeying the code of conduct and general participation guidelines.
+  - Participation in this project in no way guarantees any awards or fellowships from Womanium or partner organizations. Awards and fellowships will be granted only to the best participants, as determined solely by Womanium.
 
 By participating in the Womanium Quantum+AI 2024 Projects, you agree to comply with all the rules and guidelines outlined above. We look forward to your innovative contributions and wish you the best of luck in your project endeavours!
