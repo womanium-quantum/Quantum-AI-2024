@@ -53,8 +53,7 @@ The Womanium grants may be used for:
 Womanium QSL Fellowships:
 > The best participants from the projects will be shortlisted for Womanium QSL fellowships with Industry partners - Naval Nuclear Lab, Fraunhofer ITWM, and Classiq.
 >  - Participants are shortlisted for QSL fellowships on the basis of successful project submission, Technical Merit, Novelty, Communication and Presentation Skills.
->  - All participants are eligible for QSL fellowships with Fraunhofer ITWM and Classiq. Only US citizens are eligible for QSL fellowships with Naval Nuclear Lab.
->  - Participants selected for QSL start on paid project fellowships (3-6 month, part-time) from September 1, 2024.
+>  - Eligible participants selected for QSL start on paid project fellowships (3-6 month, part-time) from September 1, 2024.
 
   
 ## Womanium Quantum+AI Projects:
