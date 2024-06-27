@@ -11,7 +11,8 @@ If there are any questions, please get in touch with the Womanium team on the Wo
   1. To participate in the project, you must be successfully enrolled in the Womanium Quantum+AI 2024 program. 
    - Registration link: [https://lu.ma/WQ-2024](https://lu.ma/WQ-2024)
    - Webpage: [https://womanium.org/Quantum/AI](https://womanium.org/Quantum/AI)
-  2. All nationalities, genders, and age groups are welcome to participate in the projects (July 5, 2024 to August 9, 2024). 
+  2. All nationalities, genders, and age groups are welcome to participate in the projects (July 5, 2024 to August 9, 2024).
+  3. Watch the project introduction video [here](https://youtu.be/gdTh3qmfmRg?si=X4kyNtnsi-xiryn9) to understand the entire participation process.
 
 ### Project Browsing and Selection:
   1. Review all available projects listed below.
