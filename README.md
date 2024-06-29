@@ -41,8 +41,12 @@ If there are any questions, please get in touch with the Womanium team on the Wo
   3. Winners will be announced on Demo Day, August 15, 2024.
 
 Womanium Grants:
-> Everyone is eligible for Womanium grants. Winning project teams will receive Womanium grants ($750/team).
-The Womanium grants may be used for:
+> Everyone is eligible for Womanium grants (max. 1 grant/team):
+>  - 3 grants towards Technical Merit (1 grant per project)
+>  - 1 for Best Presentation (across all projects)
+>  - 1 for Startup Potential (across all projects)
+
+>  With a total grant pool of $5000, the Womanium grants may be used for:
 >  - Attending and presenting at a Science/ Technical conference.
 >  - Attending and presenting at a Leadership conference.
 >  - Organizing a local Quantum workshop (>50 participants).
